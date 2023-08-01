@@ -27,3 +27,10 @@ In my free time I like swimming and sketching, I'm also a sucker for the outdoor
 
 ### Status
 
+# Contributions
+
+![Snake animation](https://github.com/yeoshuheng/yeoshuheng/blob/output/github-contribution-grid-snake.svg)
+
+# Recent Activity :zap:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
