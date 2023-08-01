@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**My name is Shu Heng, a Y1 CS & Math student @ NUS.**
+
+My passion lies in artificial intelligence (deep learning), but I'm always on the lookout to learn more about how technology can help us solve problems.
+
+In my free time I like swimming and sketching, I'm also a sucker for the outdoors.
+
+### Ongoing
+
+🔭 I’m currently working as a researcher, focusing on delta-compression for machine learning training processes.
+
+### Status
+
