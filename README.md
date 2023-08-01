@@ -24,4 +24,3 @@ In my free time I like swimming and sketching, I'm also a sucker for the outdoor
 ### Ongoing
 
 🔭 I’m currently working as a researcher, focusing on delta-compression for machine learning training processes.
-🌱 I'm also currently trying to learn more about graph neural networks and lock-free data structures.
