@@ -23,6 +23,6 @@ In my free time I like swimming and sketching, I'm also a sucker for the outdoor
 
 ### Ongoing
 
-🔭 I’m currently working as a researcher, focusing on delta-compression for machine learning training processes.
+🔭 I’m currently researching on checkpoint compression for deep learning.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yeo-shu-heng-78bb1a21b/)
