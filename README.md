@@ -23,6 +23,6 @@ In my free time I like swimming and sketching, I'm also a sucker for the outdoor
 
 ### Ongoing
 
-🔭 I’m currently interested in research.
+🔭 I’m currently a student during research and working on a few open-source projects.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yeo-shu-heng-78bb1a21b/)
