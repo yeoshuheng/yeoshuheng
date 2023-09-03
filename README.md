@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**My name is Shu Heng, a Y1 CS & Math student @ NUS.**
+**My name is Shu Heng, a Y2 CS & Math student @ NUS.**
 
 My passion lies in artificial intelligence (deep learning), but I'm always on the lookout to learn more about how technology can help us solve problems.
 
@@ -23,6 +23,5 @@ In my free time I like swimming and sketching, I'm also a sucker for the outdoor
 
 ### Ongoing
 
-🔭 I’m currently a student during research and working on a few open-source projects.
-
+🔭 I’m currently a student trying to survive, a part time researcher and a open source contributor!
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yeo-shu-heng-78bb1a21b/)
