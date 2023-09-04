@@ -24,6 +24,3 @@ In my free time I like swimming and sketching, I'm also a sucker for the outdoor
 ### Ongoing
 
 🔭 I’m currently a student trying to survive, a part time researcher and a open source contributor!
-
-Please give me a job here:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yeo-shu-heng-78bb1a21b/)
