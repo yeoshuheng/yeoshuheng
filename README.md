@@ -23,4 +23,4 @@ In my free time I like swimming and sketching, I'm also a sucker for the outdoor
 
 ### Ongoing
 
-🔭 I’m currently a student trying to survive, a part time researcher and a open source contributor!
+🔭 I’m currently a student trying to survive :(
