@@ -23,4 +23,4 @@ In my free time I like swimming and sketching, I'm also a sucker for the outdoor
 
 ### Ongoing
 
-🔭 I’m currently a student trying to survive whilst pursuing research in motion planning via diffusion and making models more efficient.
+🔭 I’m currently a student trying to survive and interested in researching on making models more efficient.
