@@ -21,6 +21,11 @@ My passion lies in artificial intelligence (deep learning), but I'm always on th
 
 In my free time I like swimming and sketching, I'm also a sucker for the outdoors.
 
+I also love research, where I'm currently interested in Robotics AI and making model inference more safe and efficient.
+
 ### Ongoing
 
-🔭 I’m currently a student trying to survive and interested in researching on making model inference processes more safe and efficient.
+- Trying to survive cs bellcurve
+- Trying to survive math bellcurve
+- Heading to uwaterloo for exchange
+- Studying @ sbux everyday
