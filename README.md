@@ -2,7 +2,7 @@
 
 My passion lies in applied and trustworthy AI, but I'm always on the lookout to learn more about how technology can help us solve problems.
 
-In my free time I like swimming and sketching, I'm also a avid hiker and a sucker for the outdoors.
+In my free time I like swimming and sketching, I also am a sucker for the outdoors, where I'm often caught trying to climb a mountain during the summers :)
 
 ### Ongoing
 
