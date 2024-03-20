@@ -6,8 +6,8 @@ In my free time I like swimming and sketching, I also am a sucker for the outdoo
 
 ### Ongoing
 
+- Maintainer / contributor for the CS2040S repo
 - Trying to survive cs bellcurve
 - Trying to survive math bellcurve
 - Heading to uwaterloo for exchange
-- Trying to fight for a spot on A2 every morning
-- Studying @ sbux everyday
+- Research interests: ML compression, Trustworthy AI, Diffusion Models 
