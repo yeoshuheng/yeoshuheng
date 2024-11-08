@@ -2,6 +2,7 @@
 
 i think generative models & computer vision are pretty cool
 
-upcoming:
+some other stuff:
 
-joining uwaterloo as a fall exchanger!
+[linkedin](https://www.linkedin.com/in/yeoshuheng/)
+[gscholar](https://scholar.google.ca/citations?hl=en&user=HO0uiMoAAAAJ&view_op=list_works&gmla=AL3_ziiDiPNxRLsgv-RIAKNUK23TmLhGamzDQFTkTEOr_R-g9AE8U8ndVVu3kuQAMlJGoXXAFE-bcjx8BA2dueiw)
