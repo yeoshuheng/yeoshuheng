@@ -6,3 +6,5 @@ some other stuff:
 
 [linkedin](https://www.linkedin.com/in/yeoshuheng/)
 [gscholar](https://scholar.google.ca/citations?hl=en&user=HO0uiMoAAAAJ&view_op=list_works&gmla=AL3_ziiDiPNxRLsgv-RIAKNUK23TmLhGamzDQFTkTEOr_R-g9AE8U8ndVVu3kuQAMlJGoXXAFE-bcjx8BA2dueiw)
+
+[![Shuheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoshuheng)](https://github.com/yeoshuheng/github-readme-stats)
